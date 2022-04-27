@@ -54,6 +54,9 @@ a{
   height: 10;
   margin: 20px;
 }
+a:link{
+  color:lightgray;
+}
 a:visited{
   color: black;
 }

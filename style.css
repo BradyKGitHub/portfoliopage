@@ -5,8 +5,10 @@ html, body {
 h1{
   color: white;
   font-family:Bradley Hand, cursive	;	
-  font-size:48px;
+  font-size:60px;
   text-align:Center;
+  padding-top: 20px;      
+  margin: 20px;
 }
 h2{
   color: white;
@@ -49,4 +51,6 @@ a{
   font-family:DejaVu Sans Mono, monospace;
   font-size:20px;
   text-align:center;
+  height: 10;
+  margin: 20px;
 }

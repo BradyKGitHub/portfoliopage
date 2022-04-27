@@ -54,3 +54,14 @@ a{
   height: 10;
   margin: 20px;
 }
+a:visited{
+  color: black;
+}
+a:hover{
+  color:red;
+  
+}
+a:active{
+  color: blue;
+}
+
